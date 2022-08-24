@@ -1,1 +1,1 @@
-my second readme
+i am now a coder
